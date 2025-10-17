@@ -115,3 +115,9 @@ Collaborating with AI helped streamline coding, problem-solving, and optimize us
 ## ⭐️ Love this project?
 
 Please star ⭐ the repo, share with friends, and make some music with AI and Python!
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Sujal-3019&label=Project%20visitors&color=eb4d4b&style=flat" alt="Visitors"/>
+</p>
